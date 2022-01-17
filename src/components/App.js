@@ -25,7 +25,7 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={logo} className="App-logo" alt="logo" width="400" height="500" />
+                  <img src={logo} className="App-logo" alt="logo" width="250" height="200" />
                 </a>
                 <h1>Welcome</h1>
                 <p>
